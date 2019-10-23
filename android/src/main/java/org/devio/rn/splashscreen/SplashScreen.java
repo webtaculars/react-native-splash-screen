@@ -89,4 +89,7 @@ public class SplashScreen {
             }
         });
     }
+    public static Dialog getDialogView(){
+        return mSplashDialog;
+    }
 }
